@@ -1,0 +1,1 @@
+{"id":2,"question":{"question":"Test de Preguntas\t","type":"Q3","id":0},"choiceList":[{"id":3,"description":"C Incorrecta"},{"id":2,"description":"B Correcta"},{"id":1,"description":"A Incorrecta"},{"id":4,"description":"D Incorrecta"}],"answer":{"answer":null,"dtrue":false,"ctrue":false,"answerId":0,"atrue":false,"btrue":true}}
