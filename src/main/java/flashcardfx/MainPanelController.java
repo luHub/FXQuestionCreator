@@ -7,11 +7,11 @@ import javafx.scene.control.ListCell;
 import javafx.scene.control.ListView;
 import javafx.scene.layout.AnchorPane;
 import javafx.util.Callback;
-import model.CreatorModeManager;
-import model.MODE;
-import model.QuestionInList;
-import model.QuestionManager;
-import model.StudyModeManager;
+import questions.CreatorModeManager;
+import questions.MODE;
+import questions.QuestionInList;
+import questions.QuestionManager;
+import questions.StudyModeManager;
 
 public class MainPanelController {
 
@@ -29,7 +29,7 @@ public class MainPanelController {
 
     @FXML
     private AnchorPane switchAnchorPane;
-    
+     
     private ModeLoader modeLoader = new ModeLoader();
     
     //Initialize first load of questions via service task

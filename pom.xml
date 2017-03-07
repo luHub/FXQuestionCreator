@@ -6,16 +6,15 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>flashFX</name>
 	<description>UI For FlashCard Creation</description>
+	
 	<dependencies>
-		<dependency>
-		<groupId>com.flashcards.heguer</groupId>
-		<artifactId>flash</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		</dependencies>
-	
-	<build>
-	
+	<dependency>
+			<groupId>com.flashcards.heguer</groupId>
+			<artifactId>flash</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+  </dependencies>
+	<build>	
 		<sourceDirectory>C:\Users\mey\workspace\flashcardfx\src\main\java</sourceDirectory>
 		<scriptSourceDirectory>C:\Users\mey\workspace\flashcardfx\src\main\scripts</scriptSourceDirectory>
 		<testSourceDirectory>C:\Users\mey\workspace\flashcardfx\src\test\java</testSourceDirectory>

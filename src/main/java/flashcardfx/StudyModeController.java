@@ -14,8 +14,8 @@ import javafx.scene.control.TextField;
 import javafx.scene.image.ImageView;
 import meta.flashcardsdto.Choice;
 import meta.flashcardsdto.MultipleChoiceFlashCardDTO;
-import model.STATUS;
-import model.UserAnswer;
+import questions.STATUS;
+import questions.UserAnswer;
 
 public class StudyModeController {
 	

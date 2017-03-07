@@ -7,8 +7,8 @@ import javafx.scene.control.CheckBox;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import meta.flashcardsdto.MultipleChoiceFlashCardDTO;
-import model.CreatorModeManager;
-import model.STATUS;
+import questions.CreatorModeManager;
+import questions.STATUS;
 
 public class QuestionCreatorController {
 

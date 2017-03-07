@@ -5,7 +5,7 @@ import java.io.IOException;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;
 import javafx.scene.layout.AnchorPane;
-import model.StudyModeManager;
+import questions.StudyModeManager;
 
 public class ModeLoader {
 
