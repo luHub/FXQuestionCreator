@@ -77,6 +77,7 @@ public class QuestionService<V> extends Service<V> {
 		};
 	}
 	
+	//TODO: Remove this commented code!!!!
 	//This method should be enhanced to be more efficient just adding only new/modified and removed files 
 	/*private void updateAllQuestionsFromFiles() {
 		try {
@@ -171,6 +172,5 @@ public class QuestionService<V> extends Service<V> {
 			queue.add(questionFileOps);
 			queue.notify();
 		}
-	}
-		
+	}		
 } 
